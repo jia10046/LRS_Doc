@@ -3,7 +3,7 @@ Full collection of long-read sequencing (LRS) transcriptome analysis tools, incl
 
 ---
 
-## 📋 Full Tool List (By Functional Category)
+## 📋 Full Tool List
 | Category | Tool | Functional Description | GitHub | Year |
 |----------|------|------------------------|--------|------|
 | Basecalling | Guppy | A C++-based closed-source ONT basecaller that replaced Albacore, supporting GPU-accelerated high-accuracy basecalling for DNA and RNA. |  | 2018 |
@@ -168,6 +168,6 @@ Full collection of long-read sequencing (LRS) transcriptome analysis tools, incl
 ---
 
 ### 📁 File Download
-Full original Excel file: [LRS_tools.xlsx](../LRS_tools.xlsx)
+Full original Excel file: [LRS_tools.xlsx](LRS_tools.xlsx)
 
 ---
