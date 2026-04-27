@@ -1,7 +1,6 @@
 # REFERENCES
 
-<a id="ref1"></a>
-1. Lowe, Rohan, Neil Shirley, Mark Bleackley, Stephen Dolan, Thomas Shafee. 2017. “Transcriptomics technologies.” PLOS Computational Biology 13: https://doi.org/10.1371/journal.pcbi.1005457
+<a id="ref1"></a>1. Lowe, Rohan, Neil Shirley, Mark Bleackley, Stephen Dolan, Thomas Shafee. 2017. “Transcriptomics technologies.” PLOS Computational Biology 13: https://doi.org/10.1371/journal.pcbi.1005457
 
 <a id="ref2"></a>
 2. Stark, Rory, Marta Grzelak, James Hadfield. 2019. “RNA sequencing: the teenage years.” Nature Reviews Genetics 20: 631-656. https://doi.org/10.1038/s41576-019-0150-2
