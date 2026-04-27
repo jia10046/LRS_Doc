@@ -20,3 +20,9 @@ This repository contains a comprehensive review of long-read RNA sequencing (LRS
 | 8 | [Conclusion](chapters/08-conclusion.md) | Summary and outlook |
 
 ---
+
+## 🛠️ Long-Read Transcriptomics Tools
+A comprehensive collection of 150+ tools covering the entire LRS transcriptomics workflow from basecalling to visualization.
+
+- 📄 **Full Tool List**: [Complete LRS Tools Table](tools.md) (includes functional descriptions, GitHub links, and publication years)
+- 📥 **Download Original Excel**: [LRS_tools.xlsx](LRS_tools.xlsx) (editable version with all details)
