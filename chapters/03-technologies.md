@@ -13,6 +13,8 @@ Given that polymerase lifetime is finite and the SMRTbell library is circular, s
 PacBio established Iso-Seq as its flagship solution for comprehensive transcriptome analysis. This proprietary end-to-end protocol is specifically tailored for full-length transcript sequencing [[15]](../references.md#ref15).
 
 ![FIG2](../figures/Figure2.png)
+*Figure 2. Overview of LRS platforms, and library preparation and enrichment strategies for transcriptomics studies.
+(A) For PacBio sequencing, a SMRTbell circular template is loaded into a ZMW and sequenced by polymerase; fluorescence pulses and IPD signals are recorded; and repeated passes produce multiple subreads to yield a consensus HiFi read. (B) For ONT sequencing, a motor protein controls strand translocation through a nanopore; the pore generates an ionic-current “squiggle” determined by local sequence context; and the squiggle is basecalled into sequence, while RNA base modifications could be retained in the raw signal when DRS is performed. (C) Three major workflows for long-read RNA-seq library preparation: SMART, ONT’s PCR-cDNA and DRS. (D) Representative capture and enrichment strategies: 5′-end enrichment (e.g., CapTrap-seq), 3′-end enrichment approaches (e.g., PAIso-seq), and gene-targeted capture (TEQUILA-seq). (E) R2C2: rolling-circle amplification creates repeated units that are assembled into a higher-accuracy consensus. (E) Kinnex: concatenation of multiple cDNA fragments into a single long template increases information per read.*
 
 ### Oxford Nanopore Technologies
 
