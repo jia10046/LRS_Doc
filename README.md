@@ -1,6 +1,9 @@
 # LRS_Doc
 A comprehensive review of long-read transcriptomics
 
+## 📌 About This Project
+This repository contains a comprehensive review of long-read RNA sequencing (LRS) technologies and their applications in transcriptomics. It covers the latest advances in sequencing platforms, bioinformatics analysis methods, and key biological insights gained from LRS studies.
+
 ---
 
 ## 📖 Table of Contents
@@ -17,5 +20,3 @@ A comprehensive review of long-read transcriptomics
 | 8 | [Conclusion](chapters/08-conclusion.md) | Summary and outlook |
 
 ---
-
-## 📂 Repository Structure
