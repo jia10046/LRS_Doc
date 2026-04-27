@@ -14,8 +14,3 @@
 
 <a id="ref5"></a>
 5. Wright, Charlotte J., Christopher W. J. Smith, Chris D. Jiggins. 2022. "Alternative splicing as a source of phenotypic diversity." *Nature Reviews Genetics* 23: 697-710. https://doi.org/10.1038/s41576-022-00514-4
-
-<!-- 中间省略470余条 -->
-
-<a id="ref493"></a>
-493. García-Campa, L., L. Valledor, J. Pascual. 2023. "The Integration of Data from Different Long-Read Sequencing Platforms Enhances Proteoform Characterization in Arabidopsis." *Plants (Basel)* 12: https://doi.org/10.3390/plants12030511
