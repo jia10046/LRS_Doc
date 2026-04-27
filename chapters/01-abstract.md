@@ -1,0 +1,7 @@
+# Deciphering Transcriptome Complexity via Long-read Sequencing
+
+**Running title: A Guide to Long-Read Transcriptomics**
+
+## ABSTRACT
+
+Transcriptomics is moving beyond gene-level quantification toward isoform-resolved interrogation of alternative splicing, transcript structural variation, and repeat-derived transcription. Yet short-read sequencing remains intrinsically limited in accurately reconstructing full-length transcripts and resolving complex repetitive regions, including transposable elements. Recent advances in long-read sequencing, exemplified by Pacific Biosciences (PacBio) and Oxford Nanopore Technologies (ONT), offer a transformative opportunity to directly observe complete RNA molecules and thereby overcome these bottlenecks. However, practical adoption is hindered by demanding library construction and the need to process noisy, fast-evolving long-read data, and the field still lacks a unified resource that guides researchers through the entire workflow. This review fills that gap by providing a concise, end-to-end, and implementation-oriented roadmap for long-read transcriptomics. We distill the key decisions from platform and library strategy selection to core computational processing and downstream interpretation, and we summarize emerging frontiers and best-practice recommendations. By offering a reusable framework and practical checklists, this guide empowers a broader community to exploit long reads for standardized, reproducible, isoform-level discovery at unprecedented resolution.
