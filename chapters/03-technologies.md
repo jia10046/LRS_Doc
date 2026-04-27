@@ -12,6 +12,8 @@ Given that polymerase lifetime is finite and the SMRTbell library is circular, s
 
 PacBio established Iso-Seq as its flagship solution for comprehensive transcriptome analysis. This proprietary end-to-end protocol is specifically tailored for full-length transcript sequencing [[15]](../references.md#ref15).
 
+![FIG2](../figures/Figure2.png)
+
 ### Oxford Nanopore Technologies
 
 As another major long-read solution, nanopore sequencing technology, pioneered by ONT, detects single-stranded DNA or RNA molecules by monitoring ionic-current disruptions as they translocate through a nanometer-scale pore embedded in a synthetic membrane (Figure 2B). Its principle is fundamentally different from the fluorescence-based detection used by PacBio and Illumina [[13]](../references.md#ref13), [[35]](../references.md#ref35), [[36]](../references.md#ref36).
