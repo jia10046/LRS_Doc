@@ -1,0 +1,29 @@
+# CONCLUSION
+
+LRS is shifting transcriptomics from gene-level quantification to isoform-resolved interpretation by enabling direct measurement of exon connectivity, transcript boundaries, and transcription in repetitive regions, including transposable elements. This review provides an end-to-end, implementation-oriented roadmap that connects experimental design choices, platform selection, library preparation, enrichment or targeting strategies, and throughput–accuracy trade-offs, to the downstream computational steps needed to convert raw data into curated transcript models and reliable quantification. We also summarize how improvements in basecalling, quality control, alignment, error correction, transcript identification and quantification, and TE-aware analyses jointly determine isoform-catalog accuracy and the robustness of biological conclusions.
+
+Long reads further enable integrated analysis of key layers of transcriptome complexity, including alternative splicing, alternative transcription start sites, alternative polyadenylation, poly(A) tail dynamics, circular RNAs, fusion transcripts, and allele-specific expression, within a unified isoform-centric framework. This foundation supports downstream studies such as differential transcript expression, differential splicing, isoform switching, functional consequence annotation, and isoform-level regulatory network inference. Despite rapid progress, practical adoption is still constrained by cost, limited effective depth for low-abundance events, platform- and protocol-specific biases, and inconsistent benchmarking and standardization. Continued advances in sequencing chemistry, signal modeling, reference materials, and reproducible modular workflows will be critical for making long-read transcriptomics more routine, comparable across studies, and suitable for clinical translation.
+
+## AUTHORS CONTRIBUTIONS
+
+(Contents remain as in original manuscript.)
+
+## ACKNOWLEDGMENTS
+
+This study was supported by the National Natural Science Foundation of China.
+
+## CONFLICT OF INTEREST STATEMENT
+
+The authors declare no conflict of interest.
+
+## DATA AVAILABILITY STATEMENT
+
+All code used to generate figures in this paper and render the supplementary website is in the GitHub repository: ****.
+
+## ETHICS STATEMENT
+
+No ethics approval was required for this study.
+
+## FIGURE LEGENDS
+
+*(Figure legends preserved from manuscript.)*
