@@ -8,6 +8,15 @@ Long-read sequencing is transforming transcriptomics from gene-level quantificat
 
 ---
 
+## ✨ HIGHLIGHTS
+
+- Long-read sequencing enables isoform-resolved characterization of transcriptome complexity by directly resolving full-length transcript structures and linked regulatory features.
+- The choice of sequencing platform and library preparation strategies critically influences transcript completeness, accuracy, and biological interpretation.
+- Standardized computational workflows are needed for reproducible and scalable long-read transcriptomics studies.
+- Single-cell, spatial, direct RNA, and multi-omics approaches expand long-read omics frontiers.
+
+---
+
 ## 📖 Table of Contents
 
 | # | Chapter Title | Description |
