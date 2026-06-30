@@ -4,7 +4,7 @@ Deciphering Transcriptome Complexity via Long-read Sequencing
 ## 📌 About This Project
 Long-read sequencing is transforming transcriptomics from gene-level quantification to isoform-resolved interpretation by directly resolving full-length transcript structures, transcription in repetitive regions, and linked molecular features; this review provides an end-to-end roadmap covering sequencing platforms, library preparation strategies, computational workflows, the analysis of transcriptome complexity, and downstream analyses; it further highlights current challenges, and emerging frontiers including single-cell and spatial transcriptomics, direct RNA modification detection, and integrated multi-omics approaches.
 
-![FIG1](figures/Figure1.png)
+![FIG1](figures/Figure0.png)
 
 ---
 
