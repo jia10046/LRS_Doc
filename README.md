@@ -1,8 +1,8 @@
 # LRS_Doc
-A comprehensive review of long-read transcriptomics
+Deciphering Transcriptome Complexity via Long-read Sequencing
 
 ## 📌 About This Project
-This repository contains a comprehensive review of long-read RNA sequencing (LRS) technologies and their applications in transcriptomics. It covers the latest advances in sequencing platforms, bioinformatics analysis methods, and key biological insights gained from LRS studies.
+Long-read sequencing is transforming transcriptomics from gene-level quantification to isoform-resolved interpretation by directly resolving full-length transcript structures, transcription in repetitive regions, and linked molecular features; this review provides an end-to-end roadmap covering sequencing platforms, library preparation strategies, computational workflows, the analysis of transcriptome complexity, and downstream analyses; it further highlights current challenges, and emerging frontiers including single-cell and spatial transcriptomics, direct RNA modification detection, and integrated multi-omics approaches.
 
 ![FIG1](figures/Figure1.png)
 
@@ -24,7 +24,7 @@ This repository contains a comprehensive review of long-read RNA sequencing (LRS
 ---
 
 ## 🛠️ Long-Read Transcriptomics Tools
-A comprehensive collection of 170+ tools covering the entire LRS transcriptomics workflow from basecalling to visualization.
+A comprehensive collection of 190+ tools covering the entire LRS transcriptomics workflow from basecalling to visualization.
 
 - 📄 **Full Tool List**: [Complete LRS Tools Table](tools/tools.md) (includes functional descriptions, GitHub links, and publication years)
 - 📥 **Download Original Excel**: [LRS_tools.xlsx](tools/LRS_tools.xlsx) (editable version with all details)
